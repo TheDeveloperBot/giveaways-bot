@@ -1,5 +1,5 @@
 {
-  "token": "TOKEN_BOT",
+  "token": "BOT_TOKEN",
   "joinGiveawayResponseCharacter": "🎉",
   "giveawayRole": "Giveaways",
   "bracketsCurrencyZone": "us",
