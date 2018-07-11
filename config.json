@@ -1,5 +1,5 @@
 {
   "prefix":"?",
-  "token":"process.env.BOT_TOKEN",
+  "token":"BOT_TOKEN",
   "owners":["445266641954275328"]
 }
