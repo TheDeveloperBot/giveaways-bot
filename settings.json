@@ -1,0 +1,10 @@
+{
+  "token": "NDU3MTE3NjI5OTQxOTQwMjI1.DiFe1Q.cT971Nlx83SyrK12qE7TnosVNYE",
+  "joinGiveawayResponseCharacter": "🎉",
+  "giveawayRole": "Giveaways",
+  "bracketsCurrencyZone": "us",
+  "daemonInterval" : "*/10 * * * * *",
+  "maxConcurrentGiveaways" : 5,
+  "winningCooldownDays" : 3
+
+}
