@@ -147,4 +147,4 @@ process
     .on("uncaughtException", err => console.error(err.stack))
     .on("unhandledRejection", err => console.error(err.stack));
 
-client.login("BOT_TOKEN");
+bot.login("BOT_TOKEN");
