@@ -6,6 +6,8 @@ const moment = require("moment");
 const cache = require("./cache.json");
 const fs = require("fs");
 const { join } = require("path");
+const bot = new Discord.Client({disableEveryone: false});
+
 
 const Giveaway = require("./handlers/giveaway.js");
 
