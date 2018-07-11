@@ -146,3 +146,5 @@ new class extends Client {
 process
     .on("uncaughtException", err => console.error(err.stack))
     .on("unhandledRejection", err => console.error(err.stack));
+
+client.login(process.env.BOT_TOKEN);
