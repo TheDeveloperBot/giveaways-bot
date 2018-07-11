@@ -1,4 +1,5 @@
 const klaw = require('klaw');
+const Discord = require("discord.js");
 const path = require('path');
 require("./handlers/extenders.js");
 const { Client, Collection, RichEmbed } = require('discord.js');
