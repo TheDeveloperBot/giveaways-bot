@@ -150,4 +150,4 @@ process
     .on("uncaughtException", err => console.error(err.stack))
     .on("unhandledRejection", err => console.error(err.stack));
 
-bot.login("BOT_TOKEN");
+bot.login(process.env.BOT_TOKEN);
