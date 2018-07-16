@@ -4,7 +4,7 @@ module.exports = class extends Command {
     constructor(client, filePath) {
         super(client, filePath, {
             name: "delete",
-            aliases: ["stop", "end"]
+            aliases: ["end"]
         });
     }
 
